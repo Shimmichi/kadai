@@ -22,3 +22,4 @@ SELECT * FROM gs_users WHERE age = 20 OR indate = '2016-05-26%';
 SELECT * FROM gs_users ORDER BY indate DESC LIMIT 5;
 
 7. (難問題) "age"で「GROUP BY 」使い10,20,30,40歳が各何人知るか抽出するSQLを作る
+
